@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test node js for battrai status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "anang",
+  "license": "ISC",
+  "dependencies": {
+    "battery-level": "^3.0.0",
+    "browser-battery": "^2.0.0",
+    "is-charging": "^2.0.0",
+    "node-fetch": "^2.6.1",
+    "node-schedule": "^2.0.0"
+  }
+}
